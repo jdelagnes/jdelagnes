@@ -16,7 +16,7 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 - **Architecture** : Microservices, REST API, CQRS/ES, EDA, EIP
 - **Design Logiciel** : DDD, BDD, Architecture Hexagonale, Clean Code
 - **DevOps** : CI/CD, Git, Jenkins, SonarQube, XL Deploy, ELK
-- **Cloud** : SGCIB private cloud (Linux VM "on premise")
+- **Cloud** : _Kubernetes_, SGCIB private cloud (Linux VM "on premise")
 - **Bases de données & Messaging** : PostgreSQL, Oracle, RabbitMQ, Kafka, MongoDB
 - **Méthodologies** : Scrum, Kanban, SAFe
 - **Autres** : WebLogic, C, C++, C#
@@ -27,6 +27,7 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 
 ## 📜 Certifications
 
+- **En cours**: [Kubernetes for the Absolute Beginners](https://www.udemy.com/course/learn-kubernetes/) - _Udemy_
 - **2013** : Functional Programming Principles in Scala – _Coursera_
 - **2013** : MongoDB for Java Developers – _MongoDB University_
 
