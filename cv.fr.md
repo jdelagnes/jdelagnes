@@ -23,11 +23,11 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 
 **Auto formation**
 
-- **DevOps Cloud** : Docker, IaC avec Terraform
+- **DevOps** : Docker
 
 ## 📜 Certifications
 
-- **En cours**: [Kubernetes for the Absolute Beginners](https://www.udemy.com/course/learn-kubernetes/) - _Udemy_
+- **2025** : [Kubernetes for the Absolute Beginners](https://www.udemy.com/certificate/UC-fa9ae759-8028-4987-832a-5180647a798f/) - _Udemy_
 - **2013** : Functional Programming Principles in Scala – _Coursera_
 - **2013** : MongoDB for Java Developers – _MongoDB University_
 
